@@ -7,7 +7,7 @@ kibana:7.6.2
 docker.elastic.co/logstash/logstash:8.14.3
 elasticsearch:7.6.2
 kibana:7.6.2
-
+nextcloud:32.0.3
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
